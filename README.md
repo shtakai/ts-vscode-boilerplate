@@ -1,4 +1,7 @@
 # ts-vscode-boilerplate
+
+[![GuardRails badge](https://badges.production.guardrails.io/shtakai/ts-vscode-boilerplate.svg)](https://www.guardrails.io)
+
 Boilerplate Visual Studio Code TypeScript project.
 
 Please visit [blog.wolksoftware.com](http://blog.wolksoftware.com/setting-up-your-typescript-vs-code-development-environment) to learn more about this template.
